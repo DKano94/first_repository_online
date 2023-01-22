@@ -8,3 +8,4 @@ Lugar de Residencia: Bogota
 RH: O+
 Indentificacion: 1010213682
 Tel Celular: 3152372664
+Barrio: Ejemplo Barrio
